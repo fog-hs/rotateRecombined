@@ -1,6 +1,6 @@
 building in the directory containing rotateRecombined.cabal with;      
 cabal new-configure --allow-new   
-cabal new-configure --allow-new   
+cabal new-cbuild    --allow-new   
 
 gives the error   
 ...   
